@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this reproduction, please cite the original paper and this repository."
+title: "TFLN Negative-Angle Grating Coupler Reproduction"
+type: software
+authors:
+  - name: "eyeberry1"
+version: 1.0.0
+date-released: 2026-09-30
+repository-code: "https://github.com/eyeberry1/tfln-negative-angle-grating-coupler-reproduction"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Liao"
+      given-names: "R."
+  title: "High-efficiency thin-film lithium niobate apodized grating coupler utilizing negative diffraction angle"
+  journal: "Optics Express"
+  volume: 32
+  issue: 26
+  start: 46299
+  year: 2024
+  doi: "10.1364/OE.542031"

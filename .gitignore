@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.fsp
+*.lms
+*.ldf
+*.log
+*.out
+*.err
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
